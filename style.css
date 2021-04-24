@@ -1,0 +1,19 @@
+body {
+    background-color: #E9ECEF;
+    font-family: Karla, Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: salmon;
+}
+ul {
+    display: inline-block;
+}
+li {
+    text-align: left;
+}
+.card:hover {
+    border: 1px solid black;
+}
+.card {
+    min-height: 300px;
+}
